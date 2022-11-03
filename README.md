@@ -1,3 +1,9 @@
+[![](https://img.shields.io/npm/dm/nolicense.svg?style=flat)](https://www.npmjs.org/package/nolicense)
+[![](https://img.shields.io/npm/v/nolicense.svg?style=flat)](https://www.npmjs.org/package/nolicense)
+[![](https://img.shields.io/github/license/atomantic/nolicense)](https://img.shields.io/github/license/atomantic/nolicense)
+
+[![](https://img.shields.io/twitter/follow/antic?style=social)](https://img.shields.io/twitter/follow/antic?style=social)
+
 # No License
 
 > An Art Project that Questions the Nature of Open Source Licensing Chains
