@@ -1,0 +1,3 @@
+const nolicense = require("../");
+
+nolicense();

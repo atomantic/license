@@ -1,0 +1,18 @@
+{
+  "name": "nolicense",
+  "version": "1.0.0",
+  "description": "An Art Project that Questions the Nature of Open Source Licensing Chains",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomantic/nolicense.git"
+  },
+  "author": "Adam Eivy",
+  "bugs": {
+    "url": "https://github.com/atomantic/nolicense/issues"
+  },
+  "homepage": "https://github.com/atomantic/nolicense#readme"
+}
