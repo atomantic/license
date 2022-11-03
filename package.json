@@ -1,6 +1,6 @@
 {
   "name": "nolicense",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Art Project that Questions the Nature of Open Source Licensing Chains",
   "main": "index.js",
   "scripts": {
