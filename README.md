@@ -27,3 +27,6 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/4222
 Projects sometimes have massive networks of dependencies. A top-level project license often times has an "as-is" clause and a limitation or waiver of liability by the top level project author. In theory, these waivers pass the liability of copyright violation all the way to an end user, even though a sub-project might be hidden an arbitrary number of layers down from the top-level project source.
 
 This project has no dependencies... but will it have no parents?
+
+# Who
+gives a fuck
